@@ -5,7 +5,7 @@
 
 // Number => upto 2 to power 53
 // BigInt
-// String => we can use single of double quotes
+// String => we can use single or double quotes
 // Boolean => true/false
 // null => standalone value
 // undefined
